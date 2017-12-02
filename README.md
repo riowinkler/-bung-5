@@ -1,1 +1,1 @@
-Das ist die Hausaufgabe zum 18.11.17 von ModSim17/18
+Das sind die Hausaufgaben von ModSim17/18
